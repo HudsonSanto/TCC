@@ -1,7 +1,7 @@
 # TCC
 Esse repositório faz parte do TCC: Carrinho de baixo custo para ser utilizado em centros de distribuição e logística.
 
-Foi desenvolvido para o curso de sistema de informação.
+Foi desenvolvido para o curso de sistemas de informação.
 
 Este projeto de pesquisa tem como objetivo um pequeno carro, controlado remotamente por aplicativo em smartphone, movido a bateria, para transporte de pequenas cargas em centros de
 distribuição e logísticos. 
